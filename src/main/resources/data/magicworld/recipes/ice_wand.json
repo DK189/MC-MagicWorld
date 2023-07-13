@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " *#",
+    " #*",
+    "#  "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gold_ingot"
+    },
+    "*": {
+      "item": "magicworld:ice_core"
+    }
+  },
+  "result": {
+    "item": "magicworld:ice_wand"
+  }
+}

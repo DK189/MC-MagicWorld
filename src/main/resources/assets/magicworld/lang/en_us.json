@@ -1,0 +1,14 @@
+{
+  "creativetab.magic_tab": "Magic",
+
+  "item.magicworld.fire_core": "Fire Core",
+  "item.magicworld.ice_core": "Ice Core",
+  "item.magicworld.lightning_core": "Lightning Core",
+  "item.magicworld.wind_core": "Wind Core",
+
+  "item.magicworld.fire_wand": "Fire Wand",
+  "item.magicworld.ice_wand": "Ice Wand",
+  "item.magicworld.lightning_wand": "Lightning Wand",
+  "item.magicworld.wind_wand": "Wind Wand"
+
+}
